@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(40, 38, 38);
+}
+
+.cover{
+    background: url('/media/bckgrnd.jpg') !important;
+    background-position: center;
+    background-size: cover;
+    height: 93vh;
+    width: 198vh;
+}
